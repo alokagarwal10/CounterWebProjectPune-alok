@@ -187,6 +187,12 @@
 			</plugin>
 	    </plugins>
 	  </reporting>
-	
+	<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>devops-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 
 </project>
