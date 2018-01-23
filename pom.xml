@@ -191,7 +191,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>devops-snapshots</name>
-        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+        <url>http://135.60.61.212:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
