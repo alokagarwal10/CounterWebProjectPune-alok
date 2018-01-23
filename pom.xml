@@ -187,11 +187,5 @@
 			</plugin>
 	    </plugins>
 	  </reporting>
-	<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>tlnagvmap05.nonprod.avaya.com-releases</name>
-        <url>http://135.60.61.212:8081/artifactory/libs-release</url>
-    </repository>
-</distributionManagement>
+	
 </project>
